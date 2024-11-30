@@ -75,7 +75,7 @@ function writeToFile(fileName, data) {
       },
       {
         type: 'input',
-        name: 'Github USERNAME',
+        name: 'github',
         message: 'Please enter github username?',
       },
       {
